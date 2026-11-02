@@ -1,0 +1,6 @@
+{
+  "name": "model-effort",
+  "version": "0.1.0",
+  "description": "A bar above the prompt with separate model and effort sliders",
+  "types": "./types/index.d.ts"
+}

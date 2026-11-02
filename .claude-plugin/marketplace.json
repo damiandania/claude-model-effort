@@ -1,0 +1,5 @@
+{
+  "name": "claude-model-effort",
+  "owner": { "name": "damiandania" },
+  "plugins": [{ "name": "model-effort", "source": "./" }]
+}
